@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9845d9e7-975d-4962-aaf9-6d00707a87e3" name="Changes" comment="" />
+    <list default="true" id="9845d9e7-975d-4962-aaf9-6d00707a87e3" name="Changes" comment="Juego Piedra Papel o Tijera en Python" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="cristian94071@outlook.com" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -42,6 +57,19 @@
       <option name="presentableId" value="Default" />
       <updated>1704330685553</updated>
     </task>
+    <task id="LOCAL-00001" summary="Juego Piedra Papel o Tijera en Python">
+      <option name="closed" value="true" />
+      <created>1704331006516</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704331006516</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Juego Piedra Papel o Tijera en Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Juego Piedra Papel o Tijera en Python" />
   </component>
 </project>
